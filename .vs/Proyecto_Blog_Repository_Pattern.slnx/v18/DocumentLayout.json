@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dalza\\Documents\\Visual Studio 18\\Proyectos\\Proyecto_Blog_Repository_Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0774D66-546A-4CEB-A145-61E5E057002B}|Proyeecto_Blog.UI.Tests\\Proyeecto_Blog.UI.Tests.csproj|c:\\users\\dalza\\documents\\visual studio 18\\proyectos\\proyecto_blog_repository_pattern\\proyeecto_blog.ui.tests\\repositories\\categoryrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0774D66-546A-4CEB-A145-61E5E057002B}|Proyeecto_Blog.UI.Tests\\Proyeecto_Blog.UI.Tests.csproj|solutionrelative:proyeecto_blog.ui.tests\\repositories\\categoryrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0774D66-546A-4CEB-A145-61E5E057002B}|Proyeecto_Blog.UI.Tests\\Proyeecto_Blog.UI.Tests.csproj|c:\\users\\dalza\\documents\\visual studio 18\\proyectos\\proyecto_blog_repository_pattern\\proyeecto_blog.ui.tests\\repositories\\articlerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0774D66-546A-4CEB-A145-61E5E057002B}|Proyeecto_Blog.UI.Tests\\Proyeecto_Blog.UI.Tests.csproj|solutionrelative:proyeecto_blog.ui.tests\\repositories\\articlerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0774D66-546A-4CEB-A145-61E5E057002B}|Proyeecto_Blog.UI.Tests\\Proyeecto_Blog.UI.Tests.csproj|c:\\users\\dalza\\documents\\visual studio 18\\proyectos\\proyecto_blog_repository_pattern\\proyeecto_blog.ui.tests\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0774D66-546A-4CEB-A145-61E5E057002B}|Proyeecto_Blog.UI.Tests\\Proyeecto_Blog.UI.Tests.csproj|solutionrelative:proyeecto_blog.ui.tests\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 238,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dalza\\Documents\\Visual Studio 18\\Proyectos\\Proyecto_Blog_Repository_Pattern\\Proyeecto_Blog.UI.Tests\\Repositories\\ArticleRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Proyeecto_Blog.UI.Tests\\Repositories\\ArticleRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Dalza\\Documents\\Visual Studio 18\\Proyectos\\Proyecto_Blog_Repository_Pattern\\Proyeecto_Blog.UI.Tests\\Repositories\\ArticleRepositoryTests.cs",
+              "RelativeToolTip": "Proyeecto_Blog.UI.Tests\\Repositories\\ArticleRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T02:20:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Dalza\\Documents\\Visual Studio 18\\Proyectos\\Proyecto_Blog_Repository_Pattern\\Proyeecto_Blog.UI.Tests\\Constants.cs",
+              "RelativeDocumentMoniker": "Proyeecto_Blog.UI.Tests\\Constants.cs",
+              "ToolTip": "C:\\Users\\Dalza\\Documents\\Visual Studio 18\\Proyectos\\Proyecto_Blog_Repository_Pattern\\Proyeecto_Blog.UI.Tests\\Constants.cs",
+              "RelativeToolTip": "Proyeecto_Blog.UI.Tests\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:22:09.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dalza\\Documents\\Visual Studio 18\\Proyectos\\Proyecto_Blog_Repository_Pattern\\Proyeecto_Blog.UI.Tests\\Repositories\\CategoryRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Proyeecto_Blog.UI.Tests\\Repositories\\CategoryRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Dalza\\Documents\\Visual Studio 18\\Proyectos\\Proyecto_Blog_Repository_Pattern\\Proyeecto_Blog.UI.Tests\\Repositories\\CategoryRepositoryTests.cs",
+              "RelativeToolTip": "Proyeecto_Blog.UI.Tests\\Repositories\\CategoryRepositoryTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T00:39:55.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

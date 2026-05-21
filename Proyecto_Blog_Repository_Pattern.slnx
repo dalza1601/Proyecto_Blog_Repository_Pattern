@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Proyecto_Blog.BE.Models/Proyecto_Blog.BE.Models.csproj" />
+  <Project Path="Proyecto_Blog.DL.DA/Proyecto_Blog.DL.DA.csproj" />
+  <Project Path="Proyecto_Blog.FL.Utilities/Proyecto_Blog.FL.Utilities.csproj" />
+  <Project Path="Proyecto_Blog.UI.ASPNET.MVC/Proyecto_Blog.UI.ASPNET.MVC.csproj" />
+  <Project Path="Proyeecto_Blog.UI.Tests/Proyeecto_Blog.UI.Tests.csproj" Id="e0774d66-546a-4ceb-a145-61e5e057002b" />
+</Solution>

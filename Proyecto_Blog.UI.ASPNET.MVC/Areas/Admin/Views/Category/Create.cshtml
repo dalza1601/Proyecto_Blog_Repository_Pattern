@@ -1,0 +1,50 @@
+﻿@model Proyecto_Blog.BE.Models.ViewModel.CategoryViewModel
+
+@{
+    ViewData["Title"] = "Crear categoría";
+    ViewData["ButtonTitle"] = "Crear categoría";
+}
+
+<br />
+<br />
+
+<h3 class="text-center">Crear nueva Categoria</h3>
+
+<form method="POST" asp-action="Create">
+    <div class="row px-2 offset-1 border">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="col offset-1 mt-4">
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Name"></label>
+                </div>
+                <div class="col-8">
+                    <input required asp-for="Name" class="from-control" placeholder="Ingrese nombre categoria" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+            </div>
+
+            <br />
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Orden"></label>
+                </div>
+                <div class="col-8">
+                    <input required asp-for="Orden" class="from-control" placeholder="Ingrese el numero de orden" />
+                    <span asp-validation-for="Orden" class="text-danger"></span>
+                </div>
+            </div>
+
+            <br />
+
+            <div class="form-group-row">
+                <div class="col-8">
+                    <partial name="_VistaCrearVolver" />
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</form>

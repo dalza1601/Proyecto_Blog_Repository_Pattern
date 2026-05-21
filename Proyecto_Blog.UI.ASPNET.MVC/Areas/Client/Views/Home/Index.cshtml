@@ -1,0 +1,36 @@
+﻿@model Proyecto_Blog.BE.Models.ViewModel.HomeViewModel
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="row mt-1">
+    <div class="col-sm-12">
+        <h1 class="text-center text-dark">
+            Ultimos articulos
+        </h1>
+    </div>
+</div>
+
+@if(Model.Articles.Count() > 0)
+{
+    <div class="row mt-3">
+        @foreach (var article in Model.Articles)
+        {
+            <div class="col 4">
+                <div class="card">
+                    <img src="@article.ImageUrl" class="card-img-top" alt="@article.Name">
+                    <div class="card-body">
+                        <h5 class="text-center">@article.Name</h5>
+                        <a asp-action="Detail" asp-route-id="@article.Id" class="btn btn-success" style="border-radius:10px">
+                            Mas informacion
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p> No hay articulos</p>
+}
