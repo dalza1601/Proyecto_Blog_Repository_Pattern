@@ -64,13 +64,13 @@ namespace Proyeecto_Blog.UI.Tests.Controllers
             var mapper = new Mock<AutoMapper.IMapper>();
             var controller = new CategoryController(mockUnitOfWork.Object, logger.Object, mapper.Object);
 
-            mockUnitOfWork.Setup(repo => repo.Category.GetAll()).Throws(new Exception("Database error"));
+            mockUnitOfWork.Setup(repo => repo.Category.GetAll()).Throws(new Exception(Constants.ERROR_GET_ALL_CATEGORIES));
 
             //Act
             var exception = Assert.Throws<Exception>(() => controller.GetAll());
 
             //Assert
-            Assert.Equal("Database error", exception.Message);
+            Assert.Equal(Constants.ERROR_GET_ALL_CATEGORIES, exception.Message);
 
         }
     }
