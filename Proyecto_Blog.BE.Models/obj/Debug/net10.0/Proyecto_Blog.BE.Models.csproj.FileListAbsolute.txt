@@ -1,0 +1,13 @@
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.BE.Models\bin\Debug\net10.0\Proyecto_Blog.BE.Models.deps.json
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.BE.Models\bin\Debug\net10.0\Proyecto_Blog.BE.Models.dll
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.BE.Models\bin\Debug\net10.0\Proyecto_Blog.BE.Models.pdb
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.BE.Models\obj\Debug\net10.0\Proyecto_Blog.BE.Models.csproj.AssemblyReference.cache
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.BE.Models\obj\Debug\net10.0\Proyecto_Blog.BE.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.BE.Models\obj\Debug\net10.0\Proyecto_Blog.BE.Models.AssemblyInfoInputs.cache
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.BE.Models\obj\Debug\net10.0\Proyecto_Blog.BE.Models.AssemblyInfo.cs
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.BE.Models\obj\Debug\net10.0\Proyecto_Blog.BE.Models.csproj.CoreCompileInputs.cache
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.BE.Models\obj\Debug\net10.0\Proyecto_Blog.BE.Models.sourcelink.json
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.BE.Models\obj\Debug\net10.0\Proyecto_Blog.BE.Models.dll
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.BE.Models\obj\Debug\net10.0\refint\Proyecto_Blog.BE.Models.dll
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.BE.Models\obj\Debug\net10.0\Proyecto_Blog.BE.Models.pdb
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.BE.Models\obj\Debug\net10.0\ref\Proyecto_Blog.BE.Models.dll

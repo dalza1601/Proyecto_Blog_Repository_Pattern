@@ -1,0 +1,12 @@
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.FL.Utilities\bin\Debug\net10.0\Proyecto_Blog.FL.Utilities.deps.json
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.FL.Utilities\bin\Debug\net10.0\Proyecto_Blog.FL.Utilities.dll
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.FL.Utilities\bin\Debug\net10.0\Proyecto_Blog.FL.Utilities.pdb
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.FL.Utilities\obj\Debug\net10.0\Proyecto_Blog.FL.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.FL.Utilities\obj\Debug\net10.0\Proyecto_Blog.FL.Utilities.AssemblyInfoInputs.cache
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.FL.Utilities\obj\Debug\net10.0\Proyecto_Blog.FL.Utilities.AssemblyInfo.cs
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.FL.Utilities\obj\Debug\net10.0\Proyecto_Blog.FL.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.FL.Utilities\obj\Debug\net10.0\Proyecto_Blog.FL.Utilities.sourcelink.json
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.FL.Utilities\obj\Debug\net10.0\Proyecto_Blog.FL.Utilities.dll
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.FL.Utilities\obj\Debug\net10.0\refint\Proyecto_Blog.FL.Utilities.dll
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.FL.Utilities\obj\Debug\net10.0\Proyecto_Blog.FL.Utilities.pdb
+C:\Users\Dalza\Documents\Visual Studio 18\Proyectos\Proyecto_Blog_Repository_Pattern\Proyecto_Blog.FL.Utilities\obj\Debug\net10.0\ref\Proyecto_Blog.FL.Utilities.dll
